@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="LightBlue" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#03A9F4</item>
+        <item name="colorPrimaryDark">#0288D1</item>
+        <item name="colorAccent">#03A9F4</item>
+
+    </style>
+</resources>
+
