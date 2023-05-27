@@ -13,6 +13,9 @@ update weather information in real-time.
 - Designed an intuitive user interface to display current weather
 conditions and forecasts for the upcoming eight days.
 
+## Check it out!
+Check it out [here](https://youtu.be/QIrp7FZklh4) !
+
 ## Tools
   - Android Studio
   - Java 
